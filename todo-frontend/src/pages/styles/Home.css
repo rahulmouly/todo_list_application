@@ -1,0 +1,13 @@
+/* Home.css */
+h1 {
+    text-align: center;
+    margin: 20px 0;
+    color: #333;
+  }
+  
+  div {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
